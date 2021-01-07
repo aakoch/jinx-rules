@@ -1,0 +1,19 @@
+{
+  "name": "jinx-rules",
+  "version": "0.1.0",
+  "description": "Rules of Jinx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakoch/jinx-rules.git"
+  },
+  "author": "Adam Koch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aakoch/jinx-rules/issues"
+  },
+  "homepage": "https://github.com/aakoch/jinx-rules#readme"
+}
