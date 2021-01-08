@@ -1,9 +1,12 @@
-// Custom.scss
-// Option A: Include all of Bootstrap
-
 $body-bg: rgb(172, 213, 236);
 
-$primary: #0074d8;
-$danger: #ff4136;
+.main {
+  border-radius: 2rem;
+}
 
-@import "../node_modules/bootstrap/scss/bootstrap";
+.bryan {
+  @extend .ps-4;
+  font-size: .5em;
+}
+
+@import "~bootstrap/scss/bootstrap";
