@@ -9,4 +9,10 @@ $body-bg: rgb(172, 213, 236);
   font-size: .5em;
 }
 
+.copy {
+  @extend .bryan;
+  @extend .pt-4;
+  font-size: .5em;
+}
+
 @import "~bootstrap/scss/bootstrap";
